@@ -8,7 +8,7 @@ function myFunction(page) {
         }
       }
 
-    location.replace("http://salmonet.org/protein/"+oma_id)
+    location.replace("https://salmonet.org/protein/"+oma_id)
   }
 function onCytoscapeElementClicked(event) {
     var currentTime = new Date().getTime();
